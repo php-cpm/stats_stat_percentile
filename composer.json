@@ -1,0 +1,16 @@
+{
+    "name": "php-cpm/stats_stat_percentile",
+    "description": "a pollyfill of php pecl stats function stats_stat_percentile",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zouyikb",
+            "email": "zouyi@knowbox.cn"
+        }
+    ],
+    "autoload": {
+        "files": ["func.php"]
+    },
+    "require": {}
+}
