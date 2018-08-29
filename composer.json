@@ -12,5 +12,6 @@
     "autoload": {
         "files": ["func.php"]
     },
+    "suggests": ["ext-stats"],
     "require": {}
 }
